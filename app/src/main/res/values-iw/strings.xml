@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"></string>
+    <string name="sign_in">"היכנס "</string>
+    <string name="email">"דוא\"ל "</string>
+    <string name="password">סיסמה</string>
+    <string name="profile">"פרופיל "</string>
+    <string name="enter_email">"הזן שם משתמש "</string>
+    <string name="enter_password">"הזן את הסיסמה "</string>
+    <string name="invalid">"אימייל שגוי "</string>
+    <string name="retry">נסה שוב</string>
+    <string name="no_conncetion">"אין חיבור "</string>
+    <string name="there_s_no_network_conncetion_make_sure_the_you_re_connected_to_a_wi_fi_or_mobile_network_and_try_again">"אין חיבור רשת. ודא שאתה מחובר לרשת Wi-Fi או לנייד ונסה שוב. "</string>
+    <string name="loading">טעינה</string>
+    <string name="username">"שם משתמש "</string>
+    <string name="home">בית</string>
+    <string name="gallery">גלריה</string>
+    <string name="language">שפה</string>
+    <string name="logut">להתנתק</string>
+    <string name="add_new_order">הוסף הזמנה חדשה</string>
+    <string name="current">"הזמנה נוכחית "</string>
+    <string name="menu">"תפריט "</string>
+    <string name="alert_volley_timeout">"בקש פסק זמן "</string>
+    <string name="alert_volley_server_error">שגיאת שרת</string>
+    <string name="select_zone">בחר אזור</string>
+    <string name="new_order">"הזמנה חדשה "</string>
+    <string name="east_zone">מזרח</string>
+    <string name="select_table">בחר טבלה</string>
+    <string name="next">"הבא "</string>
+    <string name="number_of_guests">מספר אורחים</string>
+    <string name="underdecelopment">בפיתוח</string>
+    <string name="choose_your_preffered_language">"בחר את השפה המועדפת עליך "</string>
+    <string name="change_language">"שנה שפה "</string>
+    <string name="cont">המשך</string>
+    <string name="alert">"התרא"</string>
+
+    <string name="invalid_username">שם משתמש וסיסמה לא חוקיים</string>
+
+</resources>
